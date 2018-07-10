@@ -6,19 +6,19 @@ passwordless user identification with its corresponding storage encryption algor
 
 The CFgp algorithm generates session or cache independent unique identifier based on the following  
 attributes:  
-- Browser
-- Flash
+- Operating System
 - Canvas
 - Connection (may not work when SELinux is enabled)
+- Java
+- Browser
+- Flash
 - Cookie
 - Display
 - Font Smoothing
 - Fonts
 - Form Fields
-- Java
 - Language
 - Silverlight
-- OS
 - Time Zone
 - Touch
 - True Browser
